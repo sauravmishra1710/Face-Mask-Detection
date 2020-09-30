@@ -1,0 +1,2 @@
+# Face-Mask-Detection
+ With the Covid-19 Pandemic, wearing of the face masks have become mandatory across the globe. Thus, an AI application that would enable the aumomatic detection if a person is wearing mask / or not will be benificial in areas such as automatically controlled (unmanned) entry gates at various places. A camers based application could flag-off persons not wearing mask and thus not allow entry.
